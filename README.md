@@ -41,3 +41,15 @@ We welcome contributions! If you’d like to contribute, please follow these ste
 4. Push to your branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
+## 📜 **License**
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 **Acknowledgments**
+
+- Thanks to the open-source community for the libraries and tools that made this project possible.
+- This project uses libraries like `numpy`, `pandas`, `keras`, and `matplotlib`.
+
+---
+
+### Dive into GPU performance prediction and explore the power of neural networks! 💻📈

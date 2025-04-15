@@ -26,4 +26,18 @@ To get started, follow these steps:
    pip install -r requirements.txt
    ```
 
+## 📝 **How to Use**
+
+1. Open the `gpu_ann.ipynb` file in **Jupyter Notebook** or **Google Colab**.
+2. Run the code to train and evaluate the ANN model on the GPU performance dataset.
+3. Analyze the model's predictions and insights into GPU performance.
+
+## 🤝 **Contributing**
+
+We welcome contributions! If you’d like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to your branch (`git push origin feature/your-feature`).
+5. Open a pull request.
 
